@@ -1,10 +1,5 @@
 ﻿# 《Real World Haskell》阅读笔记0 - 入门
 
-标签（空格分隔）： haskell
-
----
-
-[TOC]
 
 ##初识解释器ghci
 

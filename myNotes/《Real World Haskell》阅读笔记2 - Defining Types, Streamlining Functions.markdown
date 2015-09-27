@@ -1,9 +1,5 @@
 ﻿# 《Real World Haskell》阅读笔记2 - Defining Types, Streamlining Functions
 
-标签（空格分隔）： haskell
-
----
-
 ##定义新的数据类型
 
 使用 `data` 关键字可以定义新的数据类型：
